@@ -187,6 +187,7 @@ FakesAssemblies/
 # Icon must ends with two \r.
 Icon
 
+__pycache__/
 # Thumbnails
 ._*
 
